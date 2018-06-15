@@ -1,0 +1,64 @@
+@charset "utf-8";
+#todo   {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	padding-right: auto;
+}
+#Texto {
+    width: 700px;
+    float: left;
+    height: 300px;
+}
+#visto {
+    width: 268px;
+    height: 300px;
+    float: left;
+}
+
+#Anuncio {
+    width: 112px;
+    height: 300px;
+    float: right;
+}
+#contenido {
+    float: left;
+    width: 260px;
+}
+#contenido {
+    width: 800px;
+    height: auto;
+}
+#anuncio {
+    width: 201px;
+    float: right;
+}
+#inicio {
+    width: 38px;
+}
+
+
+#inicio {
+    width: 300px;
+    float: left;
+}
+#inicio {
+}
+
+#foto2 {
+    float: right;
+    width: 147px;
+}
+#foort2 {
+    width: 300px;
+    float: left;
+    min-width: 0px;
+}
+
+
+#todo #contenido #inicio {
+}
+#anuncio {
+    width: 200px;
+}
